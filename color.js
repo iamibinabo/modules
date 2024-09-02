@@ -3,4 +3,8 @@ function sayMyColor(){
     return color
 }
 
-export default sayMyColor
+function sayHello(){
+    let word = "Jesus Is King"
+}
+
+export default{sayMyColor,sayHello} 
