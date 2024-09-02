@@ -1,5 +1,6 @@
 function sayMyName(){
     let name ="Ibinabo"
+    let drink ="Orange Juice"
     return name
 }
 
